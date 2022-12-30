@@ -1,0 +1,13 @@
+.mail {
+    background-color: aquamarine;
+}
+
+.active {
+    background-color: aqua;
+    color: 'inherit';
+}
+
+.inactive {
+    text-decoration: 'none';
+    color: 'inherit';
+}
